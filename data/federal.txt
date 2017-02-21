@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "Marty Walsh",
+      "position": "Mayor - Boston",
+      "party": "Democratic",
+      "state": "MA",
+      "phoneNumber": "617-635-4500",
+      "fax": "617-635-4090",
+      "address": "1 CITY HALL SQUARE, SUITE 500 BOSTON, MA 02201-2013",
+      "email": "mayor@cityofboston.gov",
+      "website": "http://www.martywalsh.org/",
+      "twitter": "marty_walsh",
+      "other": ""
+    }
+  ]
+}
+
