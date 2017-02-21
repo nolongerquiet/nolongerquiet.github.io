@@ -72,7 +72,8 @@
     "phone": "(202) 224-5721",
     "email": "https://www.blunt.senate.gov/public/index.cfm/contact-roy",
     "website": "http://www.blunt.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "RoyBlunt"
   },
   {
     "name": "Cory A. Booker",
@@ -84,7 +85,8 @@
     "phone": "(202) 224-3224",
     "email": "https://www.booker.senate.gov/?p=contact",
     "website": "http://www.booker.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "CoryBooker"
   },
   {
     "name": "John Boozman",
@@ -208,7 +210,8 @@
     "phone": "(202) 224-5054",
     "email": "https://www.cochran.senate.gov/public/index.cfm/email-me",
     "website": "http://www.cochran.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenThadCochran"
   },
   {
     "name": "Susan M. Collins",
@@ -270,7 +273,9 @@
     "phone": "(202) 224-3542",
     "email": "https://www.cortezmasto.senate.gov/content/contact-senator",
     "website": "http://www.cortezmasto.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenCortezMasto",
+    "facebook": "catherinecortezmasto"
   },
   {
     "name": "Tom Cotton",
@@ -320,7 +325,8 @@
     "phone": "(202) 224-2651",
     "email": "https://www.daines.senate.gov/connect/email-steve",
     "website": "http://www.daines.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SteveDaines"
   },
   {
     "name": "Joe Donnelly",
@@ -409,7 +415,8 @@
     "phone": "(202) 224-6551",
     "email": "http://www.fischer.senate.gov/public/index.cfm/contact",
     "website": "http://www.fischer.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorFischer"
   },
   {
     "name": "Jeff Flake",
@@ -434,7 +441,8 @@
     "phone": "(202) 224-5641",
     "email": "https://www.franken.senate.gov/?p=contact",
     "website": "http://www.franken.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "alfranken"
   },
   {
     "name": "Cory Gardner",
@@ -459,7 +467,8 @@
     "phone": "(202) 224-4451",
     "email": "http://www.gillibrand.senate.gov/contact/",
     "website": "http://www.gillibrand.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenGillibrand"
   },
   {
     "name": "Lindsey Graham",
@@ -509,7 +518,8 @@
     "phone": "(202) 224-3324",
     "email": "https://www.hassan.senate.gov/content/contact-senator",
     "website": "http://www.hassan.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorHassan"
   },
   {
     "name": "Orrin G. Hatch",
@@ -521,7 +531,8 @@
     "phone": "(202) 224-5251",
     "email": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin",
     "website": "http://www.hatch.senate.gov/",
-    "position": "President Pro Tempore"
+    "position": "President Pro Tempore",
+    "twitter": "SenOrrinHatch"
   },
   {
     "name": "Martin Heinrich",
@@ -533,7 +544,8 @@
     "phone": "(202) 224-5521",
     "email": "http://www.heinrich.senate.gov/contact",
     "website": "http://www.heinrich.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "MartinHeinrich"
   },
   {
     "name": "Heidi Heitkamp",
@@ -557,7 +569,8 @@
     "phone": "(202) 224-6244",
     "email": "http://www.heller.senate.gov/public/index.cfm/contact-form",
     "website": "http://www.heller.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "SenDeanHeller"
   },
   {
     "name": "Mazie K. Hirono",
@@ -669,7 +682,8 @@
     "phone": "(202) 224-3244",
     "email": "http://www.klobuchar.senate.gov/public/index.cfm/contact",
     "website": "http://www.klobuchar.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "amyklobuchar"
   },
   {
     "name": "James Lankford",
@@ -756,7 +770,8 @@
     "phone": "(202) 224-6154",
     "email": "http://www.mccaskill.senate.gov/contact",
     "website": "http://www.mccaskill.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "clairecmc"
   },
   {
     "name": "Mitch McConnell",
@@ -781,7 +796,8 @@
     "phone": "(202) 224-4744",
     "email": "https://www.menendez.senate.gov/contact",
     "website": "http://www.menendez.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorMenendez"
   },
   {
     "name": "Jeff Merkley",
@@ -895,7 +911,8 @@
     "phone": "(202) 224-6221",
     "email": "https://www.peters.senate.gov/contact/email-gary",
     "website": "http://www.peters.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenGaryPeters"
   },
   {
     "name": "Rob Portman",
@@ -993,7 +1010,8 @@
     "phone": "(202) 224-4224",
     "email": "http://www.sasse.senate.gov/public/index.cfm/email-ben",
     "website": "http://www.sasse.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "BenSasse"
   },
   {
     "name": "Brian Schatz",
@@ -1009,7 +1027,7 @@
     "twitter": "brianschatz"
   },
   {
-    "name": "Charles E. Schumer",
+    "name": "Chuck Schumer",
     "last_name": "Schumer",
     "first_name": "Charles E.",
     "party": "D",
@@ -1018,7 +1036,8 @@
     "phone": "(202) 224-6542",
     "email": "https://www.schumer.senate.gov/contact/email-chuck",
     "website": "http://www.schumer.senate.gov/",
-    "position": "Democratic Leader"
+    "position": "Democratic Leader",
+    "twitter": "SenSchumer"
   },
   {
     "name": "Tim Scott",
@@ -1042,7 +1061,8 @@
     "phone": "(202) 224-2841",
     "email": "https://www.shaheen.senate.gov/contact/contact-jeanne",
     "website": "http://www.shaheen.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorShaheen"
   },
   {
     "name": "Richard C. Shelby",
@@ -1080,7 +1100,8 @@
     "phone": "(202) 224-4822",
     "email": "http://www.stabenow.senate.gov/?p=contact",
     "website": "http://www.stabenow.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "SenStabenow"
   },
   {
     "name": "Dan Sullivan",
@@ -1105,7 +1126,8 @@
     "phone": "(202) 224-2644",
     "email": "https://www.tester.senate.gov/?p=email_senator",
     "website": "http://www.tester.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorTester"
   },
   {
     "name": "John Thune",
@@ -1153,7 +1175,8 @@
     "phone": "(202) 224-6621",
     "email": "https://www.tomudall.senate.gov/?p=contact",
     "website": "http://www.tomudall.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorTomUdall"
   },
   {
     "name": "Chris Van Hollen",
@@ -1216,7 +1239,8 @@
     "phone": "(202) 224-6253",
     "email": "https://www.wicker.senate.gov/public/index.cfm/contact",
     "website": "http://www.wicker.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorWicker"
   },
   {
     "name": "Ron Wyden",
