@@ -157,7 +157,8 @@
     "phone": "(202) 224-4524",
     "email": "http://www.cardin.senate.gov/contact/",
     "website": "http://www.cardin.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorCardin"
   },
   {
     "name": "Thomas R. Carper",
@@ -194,7 +195,8 @@
     "phone": "(202) 224-5824",
     "email": "https://www.cassidy.senate.gov/contact",
     "website": "http://www.cassidy.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "BillCassidy"
   },
   {
     "name": "Thad Cochran",
@@ -218,7 +220,8 @@
     "phone": "(202) 224-2523",
     "email": "http://www.collins.senate.gov/contact",
     "website": "http://www.collins.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenatorCollins"
   },
   {
     "name": "Christopher A. Coons",
@@ -640,7 +643,8 @@
     "phone": "(202) 224-4623",
     "email": "https://www.kennedy.senate.gov/content/contact-senator",
     "website": "http://www.kennedy.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenJohnKennedy"
   },
   {
     "name": "Angus S., Jr. King",
@@ -652,7 +656,8 @@
     "phone": "(202) 224-5344",
     "email": "https://www.king.senate.gov/contact",
     "website": "http://www.king.senate.gov/",
-    "position": ""
+    "position": "".
+    "twitter": "SenAngusKing"
   },
   {
     "name": "Amy Klobuchar",
@@ -724,7 +729,8 @@
     "phone": "(202) 224-2742",
     "email": "https://www.markey.senate.gov/contact",
     "website": "http://www.markey.senate.gov/",
-    "position": ""
+    "position": "",
+    "twitter": "senmarkey"
   },
   {
     "name": "John McCain",
@@ -762,7 +768,8 @@
     "phone": "(202) 224-2541",
     "email": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact",
     "website": "http://www.mcconnell.senate.gov/",
-    "position": "Majority Leader"
+    "position": "Majority Leader",
+    "twitter": "SenateMajLdr"
   },
   {
     "name": "Robert Menendez",
@@ -798,7 +805,8 @@
     "phone": "(202) 224-6521",
     "email": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
     "website": "http://www.moran.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "JerryMoran"
   },
   {
     "name": "Lisa Murkowski",
@@ -1157,7 +1165,9 @@
     "phone": "(202) 224-4654",
     "email": "https://www.vanhollen.senate.gov/content/contact-senator",
     "website": "http://www.vanhollen.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "ChrisVanHollen",
+    "facebook": "VanHollenForMD"
   },
   {
     "name": "Mark R. Warner",
@@ -1181,7 +1191,8 @@
     "phone": "(202) 224-4543",
     "email": "https://www.warren.senate.gov/?p=email_senator",
     "website": "http://www.warren.senate.gov",
-    "position": ""
+    "position": "",
+    "twitter": "SenWarren"
   },
   {
     "name": "Sheldon Whitehouse",
