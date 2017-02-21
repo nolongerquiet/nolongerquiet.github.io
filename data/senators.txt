@@ -656,7 +656,7 @@
     "phone": "(202) 224-5344",
     "email": "https://www.king.senate.gov/contact",
     "website": "http://www.king.senate.gov/",
-    "position": "".
+    "position": "",
     "twitter": "SenAngusKing"
   },
   {
